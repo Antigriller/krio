@@ -1,0 +1,390 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 512,
+        "width": 640
+    },
+    "objects": [
+        {
+            "id": 1546486036,
+            "classId": 12640963,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-17T15:43:24.353Z",
+            "updatedAt": "2024-03-17T15:43:32.933Z",
+            "tags": [],
+            "classTitle": "B",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJeQOzByAwks699tARSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Kz2dHEMqZiz9dJB3lYFAZYLqnIWUUxLI6SmpWlOOzCROfHPBp7fvjtevTz6YE2iu8uRhScqyhpsGkw4Pny9VlH669iR9Q05OjwMWelHel68EvSrNA67vMfI+PVRMZkpU4VNJCb32UjeftH7e9LBEzfuxx9T/Wh7vfl/hY6k3cNf547ofXW9V7U1NuR2wMa9qbfToj5tOxt/LNJO97pZ8vEdOVMvV7Gx9QgvvjrR9a36Ocfry08xq//nVXe45XEY6GwGT1c/l3VOCU0AMSJvBA==",
+                "origin": [
+                    453,
+                    132
+                ]
+            }
+        },
+        {
+            "id": 1546486037,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:34.215Z",
+            "updatedAt": "2024-03-18T12:31:34.215Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLqQKzNyAwkD65n5gVSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5KR5ujiGVMyZe34jb4OCAOsFf503KSxuhcapJu6FLN7ch77/S+To7RXp557w2E5AK0f11rYJIZ5pb549jDOo4Bezz782f929h6dNJHZ/Xfv8Xe9J9Ry2zyw1RbWTF5bN83NL3bLctbGUM+cAc878Bftq93MIA21k8HT1c1nnlNAEAAqJRLE=",
+                "origin": [
+                    595,
+                    144
+                ]
+            }
+        },
+        {
+            "id": 1546486038,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:36.376Z",
+            "updatedAt": "2024-03-18T12:31:40.869Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtFArMnIDCSvSBjKAym2AJ8QVyD9////pTfn3wWyGEuC/IIZHJ7dSANyjDxdHEMq5iQn/Dh4gMPtTMIRPuc/CSr8bt8SQvob/yU7F0R26HVw/kk4rChmGGJg4MEgyBAfZbRB+Tl3L1A3g6ern8s6p4QmAOnJKYs=",
+                "origin": [
+                    623,
+                    204
+                ]
+            }
+        },
+        {
+            "id": 1546486039,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:41.184Z",
+            "updatedAt": "2024-03-18T12:31:41.184Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK2QGzNyAwkP30V2A6k2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyJnr6eIYUjFn7qWDgi0KPKwXDOQsopqWBkhFz1oa4dQnI7FPRbG5uzpKf4+k4aP/QoKuc1Su821QYna9xrBg0juGWQ9eNChYfhK3k9106siCB+xmrqUm0n8YvgiYZTzYUs51iftmwd4DwhEBdW9Onl5bP1Hsw5GND2bd+Fu86PCnl4otrHL5nw/MLg/cO9dJ2UXuaObu2b0bjWZtX/P0VPI35iN1EoukZ3QmzM5Wvt4FdCiDp6ufyzqnhCYAP5liiw==",
+                "origin": [
+                    449,
+                    237
+                ]
+            }
+        },
+        {
+            "id": 1546486040,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:45.585Z",
+            "updatedAt": "2024-03-18T12:31:45.585Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJOQGzHyAwkl1bFCwIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDclZ7ujiGVMxpvXiQ97ACD2uAu+WToJXKJVN62BYbcikXnGH8yL3xr/ctr48vPROSkwUntkewuBzlUrkqrLFK1uKP1Cwu23NTUjUiVy3NcZ6aFbbueKh+hWTopeNVT7oPTedbFaW9WcrUa7bQ1JVODxd7LJVmTduxZ/XHqAT23fK3pjyQP1D/4sqpd+F+KnPKgzY8W1vybLnbqXLLtauLZm671hv14LX4/muhK1xOrpcK/e/RvYfR9pXFb9/P/R+BzmbwdPVzWeeU0AQAMAxpxQ==",
+                "origin": [
+                    404,
+                    342
+                ]
+            }
+        },
+        {
+            "id": 1546486041,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:48.337Z",
+            "updatedAt": "2024-03-18T12:31:48.337Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI6IMzIDCRVvE44ASm2AJ8QVyD9////pTfn3wWyGEuC/IIZHJ7dSANysjxdHEMq5qy9sJH3gAIPywF3EU3JxkCJsz3TAiUajVxFjvcv5ghqf9aS0vOX4UnL3DVeIVsZD75wMOFTkLy+IsF35gqBTfomZj8v/X+Su/df3Jw3KumfLeUfOc34cFeytefuzWOTHhzumsjx2HHjad7k72c4AjIUvIC2Mni6+rmsc0poAgCnwEmQ",
+                "origin": [
+                    581,
+                    402
+                ]
+            }
+        },
+        {
+            "id": 1546486042,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:52.158Z",
+            "updatedAt": "2024-03-18T12:31:52.158Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ6QKzByAwkd+tFZQIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcjI9XRxDKubMvbCRt0FBhOWCsci0ngcafW2LLbmUA/41Vfx7n3kkjCtO4edDPoXcjq1F32uVZk/2KE6bZC56Yk9eM5/OOUWJy/qzb9iHXAxg45F5sV+TeVm7z8lbzmHTIlWetqw64rLlXHj0f2b7OVLe21a8l/idA7SUwdPVz2WdU0ITAFA3RuA=",
+                "origin": [
+                    558,
+                    453
+                ]
+            }
+        },
+        {
+            "id": 1546486043,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:31:54.534Z",
+            "updatedAt": "2024-03-18T12:31:54.534Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIcQCzPyAwkHwjJvQZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Gh4ujiGVMxJTkhOSH+QPoHdqbqtymBN8g/2tv8LBVSaeN42BPBx/JS4wXDEj8/js+vaYKAeBk9XP5d1TglNAHesJ1w=",
+                "origin": [
+                    628,
+                    356
+                ]
+            }
+        },
+        {
+            "id": 1546486044,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:01.447Z",
+            "updatedAt": "2024-03-18T12:32:01.447Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtImQGzKyAxivYriBVJsAT4hrkD6////S2/OvwtkMZYE+QUzODy7kQbktHq6OIZUzNl6cS9vg4IA64N0DR3ZxkAJX/dkEbcNSxTsdsqbitzy/Kwq/mAHO8MGh2tnlrkFzfBI0528e2rk7uxws7IKBsclucrm5smB3JcerDu+/4n+NPHPb612/KzWz62ZGf48q98q/6vMqqNqlb7XjhVpzZv9ZOadE+rxhhnW1gv+N6T8b9wZX85k6Cz6yd/u/TGggxg8Xf1c1jklNAEAHoNTWg==",
+                "origin": [
+                    24,
+                    327
+                ]
+            }
+        },
+        {
+            "id": 1546486045,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:03.945Z",
+            "updatedAt": "2024-03-18T12:32:03.945Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJaIMzIDCT/80ZLACm2AJ8QVxD3//+lN+ffBbIYS4L8ghkcnt1IA3JyPF0cQyrm5F7YyHtAgYfFwV1kSs8BjR62xYZebh4zmT5+lNbsUs7wq+K5FK3C9/DkiyUPVESnMWUotS/KDNCbuITn3H4fO+NVTP7FX+RvtM7bpGx9qe/Hwkj2NW7FhmLbt6Ya/jsr6yJ9ZddlMeEvrxhjZ64RZvgZeg9oL4Onq5/LOqeEJgAJckVM",
+                "origin": [
+                    93,
+                    297
+                ]
+            }
+        },
+        {
+            "id": 1546486046,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:06.479Z",
+            "updatedAt": "2024-03-18T12:32:06.479Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKqQKzOyAwkN80Q9gZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5KR4ujiGVMypPX+Qt0GBh/WCv01BCYtboYlEb6BEozL74+/RB2ZkvHkYe2vL/obbCz/5GG040evrFsf7iUHGM8EwfGabY1qv/2mDe2G6PzbxPu7/mloZc/Jxlf+j9EPzyrb/OWu36lvsMU7Ldb0MNZcv6APtY/B09XNZ55TQBAA0Z0di",
+                "origin": [
+                    191,
+                    337
+                ]
+            }
+        },
+        {
+            "id": 1546486047,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:08.617Z",
+            "updatedAt": "2024-03-18T12:32:08.617Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtI6QKzFyAwkPwlrxwMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcgo9XRxDKubUXjjN26AgwHJBUc4iimlpxKwpbprRTO7JPY8PHeEX/36Am/Ebc0OXGPfuJw9fu1zq9BNkO9N33/Oc2o15lSmBG/gC0v+8cfMxl6+atupKfcT7p6pdmQocK+L0A6/kX9OR+nBlR+6PA7/510x0udPI3TphU/WhOXnqQMsZPF39XNY5JTQBAF0JS3I=",
+                "origin": [
+                    238,
+                    344
+                ]
+            }
+        },
+        {
+            "id": 1546486048,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:12.688Z",
+            "updatedAt": "2024-03-18T12:32:12.688Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ6QKzPyAwkl2lnXQRSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5JR6ujiGVMypvXCQt0GBh/WCEL+M7MFAGV63YhG3FxOZP97ON/XqKXigukT1rfhETW7/VXvUG84wxIcvkGAIUZEIE+4tC0soX5OsOPPrgWcinvpbFvMdnF42uU7y70q7Sfcm68pu9peNT2FzbFp/Mj8ns+yF8HnRaQbTmP1ULjMdiam5BXQAg6ern8s6p4QmAEn+Rwg=",
+                "origin": [
+                    95,
+                    383
+                ]
+            }
+        },
+        {
+            "id": 1546486049,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:15.441Z",
+            "updatedAt": "2024-03-18T12:32:15.441Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKaQKzFyAwkRaweSAMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcjI8XRxDKua0XjjI26DAw3oh36YghSWsgNmt+aLMUUGbKoMr8d4OXxQ8P08y8/3BKhD+oZNj7km+iiKGxjm9JgpzL3nIVgqzv0urE/zPGf9hicme2g2PdCZurjmVlnky5eZrzhJ753bX902tpYztL1YnSVr/eAW0k8HT1c9lnVNCEwDvM0R1",
+                "origin": [
+                    141,
+                    415
+                ]
+            }
+        },
+        {
+            "id": 1546486050,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:21.870Z",
+            "updatedAt": "2024-03-18T12:32:21.870Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLaQKzHyAwku+OKDIAUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOfmeLo4hFXPmXtjI26AgwHohX0dHstHVR4LXLVnEbcEWg3n/bQKSkpU4K1nnP/nHWHDhsesUhUmdHSEJStIGk2UjThzccXDPPw7mlcJT70zUP5X/yKFOkCdf2XROr3XBnaPTlqdp3w0LyFHsdOF9lbx32rZP85qKz7jNuC/XBbSawdPVz2WdU0ITANzcR1Q=",
+                "origin": [
+                    181,
+                    221
+                ]
+            }
+        },
+        {
+            "id": 1546486051,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:24.422Z",
+            "updatedAt": "2024-03-18T12:32:24.422Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJaIMzIDCT/80ZLACm2AJ8QVxD3//+lN+ffBbIYS4L8ghkcnt1IA3JyPV0cQyrmtF7YyNugIMJywVhsWs8DjT62xYZdyhFREuet9wUmJy15ICpv95/BKiyj946PGu9JpqknJF8cLTLsML3QW7J598nJnh98017/9f36uH6O+vIF/B8W7Dlp3pEYlXH+5cupJyZOOX83609jucpUvospqzlUpC9vBFrM4Onq57LOKaEJAKYWS/g=",
+                "origin": [
+                    62,
+                    117
+                ]
+            }
+        },
+        {
+            "id": 1546486052,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:29.194Z",
+            "updatedAt": "2024-03-18T12:32:29.194Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIGQKzPyAwk5/vc7gJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5OR5ujiGVMyZemEvb4OCAOuDdA0dyYdhBcxuky/KHBXU0eQ58fjAE6Vek/hC+4eyCpFCDUHxR5z4nh7x0lPl3ePI03jnxv4njj/dZ37cduOq40TJuP9Ji7/U+F3+9uavUG7m3u4CnjnPp8pIH0xy0V60l7eCYcnxh0XZC79xA21m8HT1c1nnlNAEABNRSw4=",
+                "origin": [
+                    89,
+                    7
+                ]
+            }
+        },
+        {
+            "id": 1546486053,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:32:37.474Z",
+            "updatedAt": "2024-03-18T12:33:00.983Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtK+QKzEyAwkFVKP1QAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcgo9XRxDKua0ntvL26AgwHbhfMSNGQZMyRFGUj3HNHocPB1dbN41uAivq9pZf+OQoKJW5lGLy+sy2L7yM195oPfF2HyhNMuHp7EnpxcvnXi+8fKnu/P49EXXry08qbfl8syKLyunfW1WqVqx9ZJ458rULisZFd+v7P7cX7zX/+fbDbScwdPVz2WdU0ITABeNTOU=",
+                "origin": [
+                    186,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 1546486054,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:33:04.068Z",
+            "updatedAt": "2024-03-18T12:33:04.068Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIGQGzEyAwkFVhOnQdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5JR4ujiGVMyZeuEsb4MCD9sFIT45ycZAGV63ZBH3BzeaH262nyGRbFL0oNVMJEqpq7ck8YUcg5jYDUPmFVLMs45NWZIzTShsucbcgsb4G/Ml6g96/kz6Yf8+pb52kt6G8tMiexd7fsg7qZ64VTvSVDLs0m2zXXmfp1xh7DP6zrOjc95poP0Mnq5+LuucEpoAWYRKGQ==",
+                "origin": [
+                    128,
+                    57
+                ]
+            }
+        },
+        {
+            "id": 1546486055,
+            "classId": 12640962,
+            "objectId": null,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "anton.iakovenko@nure.ua",
+            "createdAt": "2024-03-18T12:33:09.862Z",
+            "updatedAt": "2024-03-18T12:33:17.444Z",
+            "tags": [],
+            "classTitle": "A",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJCQKzAyAwkVTft2gSk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyNHxdHEMqZiT/OP/fwZmq3XLBW4zb7QR+MxsaC1gfIXZ0F5gM7OhsYAxkyGzBDNDyGO7B31RxYFAfQyern4u65wSmgDSfCUq",
+                "origin": [
+                    618,
+                    0
+                ]
+            }
+        }
+    ]
+}
